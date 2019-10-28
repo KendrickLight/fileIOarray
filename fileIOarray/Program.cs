@@ -33,7 +33,7 @@ namespace fileIOarray
             Console.WriteLine();
 
             //
-            //Split out individual fields
+            //Split out individual fieldssd
             //
 
             Console.WriteLine(
